@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/victor-bravo-152276147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-bravo-152276147" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/victorvalentine8?rdid=rqk5lwwtgzhy3iku&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f15xfehwuas%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/victorvalentine8?rdid=rqk5lwwtgzhy3iku&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f15xfehwuas%2f" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/victorvalentine6640?igsh=mwtkndz3dxpqcmd3dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/victorvalentine6640?igsh=mwtkndz3dxpqcmd3dw==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor-bravo-152276147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-bravo-152276147" height="30" width="40" /></a>
+<a href="https://fb.com/victorvalentine8?rdid=rqk5lwwtgzhy3iku&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f15xfehwuas%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victorvalentine8?rdid=rqk5lwwtgzhy3iku&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f15xfehwuas%2f" height="30" width="40" /></a>
+<a href="https://instagram.com/victorvalentine6640?igsh=mwtkndz3dxpqcmd3dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victorvalentine6640?igsh=mwtkndz3dxpqcmd3dw==" height="30" width="40" /></a>
 <a href="https://discord.gg/victorbravo3459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="victorbravo3459" height="30" width="40" /></a>
 </p>
 
